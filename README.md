@@ -30,3 +30,5 @@ Pharmacy REST API
 В корне проекта выполнить:
 
 docker compose up --build
+
+API доступен по адресу http://localhost:8000/docs#/
